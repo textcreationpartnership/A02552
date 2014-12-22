@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The Kings prophecie: or VVeeping ioy Expressed in a poeme, to the honor of Englands too great solemn
+
 #####Body#####
-The Kings prophecie: or VVeeping ioy Expressed in a poeme, to the honor of Englands too great solemn
+
+1. THE KINGS PROPHECY or weeping Ioy.
+
 **Types of content**
 
   * There are 312 **verse** lines!
